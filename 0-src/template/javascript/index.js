@@ -12,7 +12,7 @@ class YourExtension{
 
     getInfo () {
         return {
-            name: '选择排序',
+            name: '排序算法',
             color:'#23a8f2',
             blockIconURI: blockIconURI,
             blocks: [                
