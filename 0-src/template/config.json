@@ -1,0 +1,26 @@
+{
+    "name": {
+        "zh-cn": "排序算法",
+        "en": "selection sort"
+    },
+    "description": {
+        "zh-cn": "输入数字到列表并排序输出",
+        "en": "online mode selection sort"
+    },
+    "author": "liliang",
+    "email": "969316753@qq.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "selectionsort",
+    "version": "0.0.1",
+    "platform": ["win"],
+    "asset": {
+        "javascript": {
+			"version": "0.0.1",
+            "dir": "javascript/",
+            "board": [],
+            "main": "main.js"
+			
+        }
+    }
+}

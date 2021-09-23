@@ -1,0 +1,23 @@
+{
+	"name": {
+		"zh-cn": "积木类型示例",
+		"en": "Example"
+	},
+	"description": {
+		"zh-cn": "block-types示例程序",
+		"en": "Description of the example"
+	},
+	"author": "dfrobot",
+	"email": "xxxx@dfrobot.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "blocktypes",
+	"version": "0.0.1",
+	"platform": ["win", "mac", "web"],
+	"asset": {
+		"javascript": {
+			"dir": "javascript/",
+			"main": "main.js"
+		}
+	}
+}

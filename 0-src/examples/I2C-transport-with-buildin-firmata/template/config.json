@@ -1,0 +1,24 @@
+{
+	"name": {
+		"zh-cn": "NFC",
+		"en": "NFC"
+	},
+	"description": {
+		"zh-cn": "为内置主板添加的NFC模块, 演示了如何使用I2C的API",
+		"en": ""
+	},
+	"author": "dfrobot",
+	"email": "",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "dfrobot_example_nfc",
+	"version": "0.0.1",
+	"platform": ["win", "mac", "web"],
+	"asset": {
+		"javascript": {
+			"dir": "javascript/",
+			"board": ["microbit", "arduino"],
+			"main": "main.js"
+		}
+	}
+}

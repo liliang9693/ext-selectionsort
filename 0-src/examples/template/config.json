@@ -1,0 +1,26 @@
+{
+    "name": {
+        "zh-cn": "用户库示例",
+        "en": "Example"
+    },
+    "description": {
+        "zh-cn": "实时模式扩展用户库示例程序",
+        "en": "Description of the example"
+    },
+    "author": "dfrobot",
+    "email": "xxx@dfrobot.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "example0729",
+    "version": "0.0.1",
+    "platform": ["win"],
+    "asset": {
+        "javascript": {
+			"version": "0.0.1",
+            "dir": "javascript/",
+            "board": ["arduino", "microbit"],
+            "main": "main.js"
+			
+        }
+    }
+}

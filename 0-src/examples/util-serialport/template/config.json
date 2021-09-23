@@ -1,0 +1,23 @@
+{
+	"name": {
+		"zh-cn": "串口通信示例",
+		"en": "Demo"
+	},
+	"description": {
+		"zh-cn": "util-serialport",
+		"en": ""
+	},
+	"author": "dfrobot",
+	"email": "",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "serialport",
+	"version": "0.0.1",
+	"platform": ["win", "mac", "web"],
+	"asset": {
+		"javascript": {
+			"dir": "javascript/",
+			"main": "main.js"
+		}
+	}
+}
